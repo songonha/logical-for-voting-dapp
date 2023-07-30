@@ -1,5 +1,8 @@
 # logical-for-voting-dapp
 Logical
+
+
+
 Address 1: 1000 => 1000 * 100 / 6000 = 16.67%
 
 
